@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 21f5113c-d022-4e7a-c9a4-624a96d5039c
 resourcetype: Document
 title: "L\u2019Invention R\xE9publicaine. \xC9l\xE9ments d\u2019une Herm\xE9neutique\
   \ Minoritaire. Extraits"

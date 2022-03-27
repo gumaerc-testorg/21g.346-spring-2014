@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 21f5113c-d022-4e7a-c9a4-624a96d5039c
 resourcetype: Document
 title: "De Gaulle et l\u2019OTAN"
 uid: 0563ecbd-f08f-abad-8193-37b59e230088
