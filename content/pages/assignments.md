@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the oral presentation, weekly short-answers
+  papers, and individual research paper required for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
