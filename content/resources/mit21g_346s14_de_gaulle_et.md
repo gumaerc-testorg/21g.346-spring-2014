@@ -7,6 +7,7 @@ file: /courses/21g-346-topics-in-modern-french-literature-and-culture-north-amer
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: "De Gaulle et l\u2019OTAN"
 uid: 0563ecbd-f08f-abad-8193-37b59e230088
 ---
 Transcript of a press conference given by President de Gaulle on the reform of the Organization of the North Atlantic Treaty Organization (NATO) and the role France can play.
-

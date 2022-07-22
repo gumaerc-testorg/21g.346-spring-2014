@@ -6,6 +6,7 @@ file: /courses/21g-346-topics-in-modern-french-literature-and-culture-north-amer
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: "L\u2019Invention R\xE9publicaine. \xC9l\xE9ments d\u2019une Herm\xE9neut
 uid: 1b5b4add-f7c4-59df-8ae7-9532705fe80d
 ---
 Extracts from Bruno Perreau's "L'Invention de la République. Une Herméneutique Minoritaire."
-
