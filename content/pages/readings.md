@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the list of readings and films assigned for each
+  session of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 21f5113c-d022-4e7a-c9a4-624a96d5039c
 ---
@@ -30,7 +35,7 @@ Présentation du semestre
 {{< tdopen >}}
 
 
-Céline, Louis-Ferdinand. Extrait : « Pour une surprise… en même temps que la fièvre. » L'Arrivée à New York**.** _Voyage au Bout de la Nuit_ (1932). Gallimard, 1988. p. 152. ISBN : 9780828836272. \[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Online book (PDF)](http://www.pourlhistoire.com/docu/voyage-celine.pdf) (en français) pp. 158–59\]
+Céline, Louis-Ferdinand. Extrait : « Pour une surprise… en même temps que la fièvre. » L'Arrivée à New York**.** _Voyage au Bout de la Nuit_ (1932). Gallimard, 1988. p. 152. ISBN : 9780828836272. \[[Online book (PDF)](http://www.pourlhistoire.com/docu/voyage-celine.pdf) (en français) pp. 158–59\]
 
 
 {{< tdclose >}}
@@ -97,7 +102,7 @@ irakienne
 {{< tdopen >}}
 
 
-[De Gaulle et l'OTAN, Discours et Lettres, 1959–1966. (PDF)]({{< baseurl >}}/resources/mit21g_346s14_de_gaulle_et)
+{{% resource_link 0563ecbd-f08f-abad-8193-37b59e230088 "De Gaulle et l'OTAN, Discours et Lettres, 1959–1966. (PDF)" %}}
 
 De Gaulle, Charles. « [Vive le Québec libre!](https://www.cbc.ca/news/canada/montreal/charles-de-gaulle-speech-50th-annivesary-1.4218130) » 23 juillet 1967.
 
@@ -183,7 +188,7 @@ Iacub, Marcela. _De la Pornographie en Amérique_. Fayard, 2010, pp. 36–42. IS
 L'anti-communautarisme en France
 {{< tdclose >}}
 {{< tdopen >}}
-Perreau, Bruno. [« L'Invention de la République. Une Herméneutique Minoritaire » (PDF)]({{< baseurl >}}/resources/mit21g_346s14_bruno_prreau), Pouvoirs, 2004.
+Perreau, Bruno. {{% resource_link 1b5b4add-f7c4-59df-8ae7-9532705fe80d "« L'Invention de la République. Une Herméneutique Minoritaire » (PDF)" %}}, Pouvoirs, 2004.
 {{< tdclose >}}
 
 {{< trclose >}}

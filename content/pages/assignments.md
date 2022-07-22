@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the oral presentation, weekly short-answers
+  papers, and individual research paper required for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 5c6cdb34-5cca-2184-475a-a399b7df444d
 ---
