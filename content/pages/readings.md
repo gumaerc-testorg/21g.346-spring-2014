@@ -35,7 +35,7 @@ Présentation du semestre
 {{< tdopen >}}
 
 
-Céline, Louis-Ferdinand. Extrait : « Pour une surprise… en même temps que la fièvre. » L'Arrivée à New York**.** _Voyage au Bout de la Nuit_ (1932). Gallimard, 1988. p. 152. ISBN : 9780828836272. \[{{% resource_link "7f19535e-2e58-4c17-9ca1-27b5c4932253" "Online book (PDF)" %}} (en français) pp. 158–59\]
+Céline, Louis-Ferdinand. Extrait : « Pour une surprise… en même temps que la fièvre. » L'Arrivée à New York**.** _Voyage au Bout de la Nuit_ (1932). Gallimard, 1988. p. 152. ISBN : 9780828836272. \[[Online book (PDF)](http://www.pourlhistoire.com/docu/voyage-celine.pdf) (en français) pp. 158–59\]
 
 
 {{< tdclose >}}
@@ -104,11 +104,11 @@ irakienne
 
 {{% resource_link 0563ecbd-f08f-abad-8193-37b59e230088 "De Gaulle et l'OTAN, Discours et Lettres, 1959–1966. (PDF)" %}}
 
-De Gaulle, Charles. « {{% resource_link "071c064e-59c6-40a8-a0e5-85aaa330bec0" "Vive le Québec libre!" %}} » 23 juillet 1967.
+De Gaulle, Charles. « [Vive le Québec libre!](https://www.cbc.ca/news/canada/montreal/charles-de-gaulle-speech-50th-annivesary-1.4218130) » 23 juillet 1967.
 
-Nicolas Sarkozy. « Discours de Nicolas Sarkozy à La Réunion. » April 7, 2012. YouTube. Accessed September 18, 2014. {{% resource_link "2d48dd0c-ce29-4f37-8ac7-5924acf5d4db" "https://www.youtube.com/watch?v=pKKBxUeUU7Y" %}}
+Nicolas Sarkozy. « Discours de Nicolas Sarkozy à La Réunion. » April 7, 2012. YouTube. Accessed September 18, 2014. [https://www.youtube.com/watch?v=pKKBxUeUU7Y](https://www.youtube.com/watch?v=pKKBxUeUU7Y)
 
-LeoNellDV. « Discours de Villepin à l'ONU contre la guerre en Irak. » November 14, 2010. YouTube. Accessed September 18, 2014. {{% resource_link "bae106a7-2bf0-49c5-8365-9dab88adc390" "https://www.youtube.com/watch?v=RNxU-tN8qNc" %}}
+LeoNellDV. « Discours de Villepin à l'ONU contre la guerre en Irak. » November 14, 2010. YouTube. Accessed September 18, 2014. [https://www.youtube.com/watch?v=RNxU-tN8qNc](https://www.youtube.com/watch?v=RNxU-tN8qNc)
 
 
 {{< tdclose >}}
@@ -126,7 +126,7 @@ Les États-Unis d'Europe
 
 Hugo, Victor. « Les États–Unis d'Europe, » Congrès de la paix, 21 août 1849. Extrait : « Un jour viendra où les armes vous tomberont… la fraternité des hommes et la puissance de Dieu! » In _Victor Hugo on Things That Matter : A Reader_. Yale University Press, 2009, pp. 455–56. ISBN : 9780300122459.
 
-François-Poncet, André. « {{% resource_link "2e3ec99c-7732-4ffe-88bd-95f8e1662acc" "Europe Unis-toi!" %}}, » Le Figaro, 18 juin 1947.
+François-Poncet, André. « [Europe Unis-toi!](http://www.cvce.eu/obj/europe_unis_toi_dans_le_figaro_18_juin_1947-fr-d940bcb1-75eb-439d-bc66-e8874fad3035.html), » Le Figaro, 18 juin 1947.
 
 
 {{< tdclose >}}
@@ -150,7 +150,7 @@ La culture de masse
 
 ### Film
 
-{{% resource_link "fcc6ae1b-954e-4b45-a501-c42e9309fbef" "_Jour de Fête_" %}}. Directed by Jacques Tati. 2013.
+[_Jour de Fête_](http://www.allocine.fr/video/player_gen_cmedia=19534544&cfilm=2605.html). Directed by Jacques Tati. 2013.
 
 
 {{< tdclose >}}
@@ -222,7 +222,7 @@ Voyages transatlantiques
 
 ### Film
 
-{{% resource_link "0d272903-8393-4215-838b-be9183253072" "_Les Triplettes de Belleville_" %}}. Directed by Sylvain Chomet. 80 min. 2003.
+[_Les Triplettes de Belleville_](http://www.allocine.fr/film/fichefilm_gen_cfilm=44206.html). Directed by Sylvain Chomet. 80 min. 2003.
 
 
 {{< tdclose >}}
@@ -236,7 +236,7 @@ Voyages transatlantiques
 La culture populaire américaine en France
 {{< tdclose >}}
 {{< tdopen >}}
-Hall, Stuart. « Déviance, Politique et Médias » 1974. In _The Lesbain and Gay Studies Reader_. Routledge, 1993, pp. 62–90. \[Preview with {{% resource_link "c942d0fc-7da4-41ed-b4c0-58dbcd21b142" "Google Books" %}}\]
+Hall, Stuart. « Déviance, Politique et Médias » 1974. In _The Lesbain and Gay Studies Reader_. Routledge, 1993, pp. 62–90. \[Preview with [Google Books](http://books.google.com/books?id=PaNdHqo-9wIC&pg=PA62)\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -268,9 +268,9 @@ Intervention d'Anne Miller. Ancienne attachée culturelle de la France aux Etats
 {{< tdopen >}}
 
 
-Regourd, Serge (coord.). {{% resource_link "513af2b6-f374-4d6f-bdcb-9d4fa8029ed0" "De l_'Exception Culturelle_" %}}. Paris, Éd. La Documentation française, coll. Problèmes politiques et sociaux, 904, september. 2004.
+Regourd, Serge (coord.). [De l_'Exception Culturelle_](http://questionsdecommunication.revues.org/7994). Paris, Éd. La Documentation française, coll. Problèmes politiques et sociaux, 904, september. 2004.
 
-Saint-Filles, Laurence. « {{% resource_link "b990c7b5-83d4-49c4-aecb-ea4b5e3eff88" "La Culture Comme Levier de la Puissance : Le Cas de la Politique Culturelle de la France aux États-Unis Pendant la Guerre Froide" %}}. » _Histoire Économie & Société_, no. 4 (2009): 97–109.
+Saint-Filles, Laurence. « [La Culture Comme Levier de la Puissance : Le Cas de la Politique Culturelle de la France aux États-Unis Pendant la Guerre Froide](http://dx.doi.org/10.3917/hes.094.0097). » _Histoire Économie & Société_, no. 4 (2009): 97–109.
 
 
 {{< tdclose >}}
@@ -294,7 +294,7 @@ La France américaine
 
 ### Film
 
-{{% resource_link "8c865dd3-3ebe-4ca5-8687-8f448f927a17" "_La France made in USA_" %}}. Directed by Bob Swaim. 53 min. 2007.
+[_La France made in USA_](http://boutique.arte.tv/f1615-francemadeinusa). Directed by Bob Swaim. 53 min. 2007.
 
 
 {{< tdclose >}}
@@ -338,7 +338,7 @@ Discussion avec Geoffroy de Lagasnerie, professeur de philosophie et de sciences
 La France et vous !
 {{< tdclose >}}
 {{< tdopen >}}
-Kaplan, Alice. _Trois Américaines à Paris : Jacqueline Bouvier Kennedy, Susan Sontag, Angela Davis (Dreaming in French)_. Gallimard, 2012, pp. {{% resource_link "938fd3b0-99a1-4a5c-b8ab-b52b132bc982" "11–18" %}} and 303–10. ISBN : 9782072464294.
+Kaplan, Alice. _Trois Américaines à Paris : Jacqueline Bouvier Kennedy, Susan Sontag, Angela Davis (Dreaming in French)_. Gallimard, 2012, pp. [11–18](http://www.edenlivres.fr/p/44497) and 303–10. ISBN : 9782072464294.
 {{< tdclose >}}
 
 {{< trclose >}}
